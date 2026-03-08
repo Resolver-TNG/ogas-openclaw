@@ -10,7 +10,7 @@ OGAS is a headless, personality-free security audit agent that runs on a cron sc
 
 AI agents that maintain persistent memory (SOUL.md, AGENTS.md, daily logs) are vulnerable to **memory poisoning** — a class of attack where malicious instructions are injected into an agent's memory files to hijack behavior. OGAS monitors file integrity and scans for anomalies.
 
-See: [OWASP Agentic Security Top 10 — ASI06: Memory Poisoning](https://owasp.org/www-project-agentic-ai-threats/)
+See: [OWASP Agentic Security Top 10 — ASI06: Memory Poisoning](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)
 
 ## What It Does
 

@@ -12,7 +12,7 @@ OGASは、cronスケジュールで定期実行される人格なし・機能特
 
 従来のコード・スクリプトベースのマルウェアと異なり、自然言語による記憶汚染はEDRやシグネチャスキャンでは検知できません。OGASは**記憶レイヤーでの整合性監視**という唯一の防御手段を提供します。
 
-参考: [OWASP Agentic Security Top 10 — ASI06: Memory Poisoning](https://owasp.org/www-project-agentic-ai-threats/)
+参考: [OWASP Agentic Security Top 10 — ASI06: Memory Poisoning](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)
 
 ## 監査内容
 
