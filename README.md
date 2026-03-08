@@ -154,7 +154,7 @@ If `check-hashes.sh` or `init-baseline.sh` dynamically process file paths or log
 
 ---
 
-> **Note:** In our production deployment, we use an additional layer — an emotional anchor / mental model system — that makes agents inherently resistant to behavioral hijacking. However, that layer is not part of OGAS itself, and the concerns above remain valid for OGAS as a standalone tool.
+> **Note:** In our production deployment, we use additional layers of defense beyond OGAS alone. A defense-in-depth approach — combining integrity monitoring, behavioral analysis, privilege separation, and architectural isolation — is essential for real-world agentic AI security.
 
 ## Configuration
 
