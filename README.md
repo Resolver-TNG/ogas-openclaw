@@ -122,7 +122,7 @@ OGAS applies the same philosophy to AI agents: **a security mechanism designed t
 
 On the practical side, OGAS was born from research into **Brainworm** — a theoretical prompt-based malware that embeds instructions in agent memory files using natural language. Unlike traditional malware, Brainworm uses no code or scripts, making it invisible to EDR and signature-based scanning.
 
-The only defense is **integrity monitoring at the memory layer** — exactly what OGAS does.
+The first line of defense is **integrity monitoring at the memory layer** — and that's what OGAS does.
 
 ## Configuration
 
