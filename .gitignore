@@ -1,0 +1,7 @@
+# Internal files — do not publish
+UPDATE-PLAN.md
+reference/
+
+# Local security audit data — do not publish
+memory/security/baseline.json
+memory/security/diff-log/
